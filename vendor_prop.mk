@@ -4,6 +4,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Havoc Official
 ro.havoc.device.name=Lenovo Zuk Z2 Plus
-ro.havoc.group.url=https://t.me/havoc_z2_plus
+ro.havoc.group.url=https://t.me/+NLFHAXLwg2hkYjM1
 ro.havoc.maintainer=Nikhil Gohil
 ro.havoc.maintainer.username=nikhilgohil3
