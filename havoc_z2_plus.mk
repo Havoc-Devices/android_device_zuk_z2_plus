@@ -28,7 +28,7 @@ $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_z2_plus
 PRODUCT_DEVICE := z2_plus
-PRODUCT_BRAND := ZUK
+PRODUCT_BRAND := Lenovo
 PRODUCT_MODEL := Z2 Plus
 PRODUCT_MANUFACTURER := ZUK
 PRODUCT_GMS_CLIENTID_BASE := android-zuk
