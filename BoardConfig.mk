@@ -35,5 +35,8 @@ AUDIO_FEATURE_ENABLED_SPKR_PROTECTION := true
 # Kernel
 TARGET_KERNEL_CONFIG := z2_plus_defconfig
 
+# System props
+TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+
 # inherit from the proprietary version
 -include vendor/zuk/z2_plus/BoardConfigVendor.mk
